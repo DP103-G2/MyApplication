@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Jt say Hi all
         //考試準備好了沒？
+        //testtest
     }
 }
